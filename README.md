@@ -1,1 +1,2 @@
 # recipes
+This is the the second attemp where I don't fuck everything up. As a note do not edit the readme site on GitHub as it creates a sync problem you are not qualified to fix yet you fucking dumbass.
